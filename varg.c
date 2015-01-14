@@ -47,5 +47,6 @@ int main()
 {
     char *msg = make_message("%s's message is: %s", "shouhua", "Hello, world!");
     printf("%s\n", msg);
+    printf("git test i'm on the stage(index file)\n");
     exit(0);
 }
