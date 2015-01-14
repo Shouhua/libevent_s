@@ -46,6 +46,6 @@ char *make_message(const char *fmt, ...)
 int main()
 {
     char *msg = make_message("%s's message is: %s", "shouhua", "Hello, world!");
-    printf("The message is: %s\n", msg);
+    printf("%s\n", msg);
     exit(0);
 }
