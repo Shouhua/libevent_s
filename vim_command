@@ -1,0 +1,5 @@
+There are many vim command i usally used as follows:
+auto align: =
+auto indent: >(<)
+check manual file: K
+substitute: :1:3s/hello/HELLO/g
